@@ -12,3 +12,5 @@ Fredrik Sandin, Blerim Emruli, Magnus Sahlgren (2016), Random indexing of multi-
 
 The C++ implementation in randomindex.cc/h is a more recent and simplified implementation,
 which includes an efficient approximation of inner products described in the paper.
+
+![DOI: 10.5281/zenodo.53766](https://zenodo.org/badge/22352/fresan/nri.svg)
